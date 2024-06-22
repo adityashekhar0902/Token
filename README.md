@@ -1,15 +1,15 @@
-#ETH_Project-ETH PROOF: Begginer EVM course
+## ETH_Project - ETH PROOF: Begginer EVM course
 
 Introducing a fundamental Solidity smart contract with all the required functionality, such as token minting and burning, that simulates a token.
 
 
-##Description
+## Description
 
 This program represents a contract written in the Solidity programming language, which is used to generate smart contracts on the Ethereum network. One program contains all of the material presented in the ETH Beginner Course under Solidity. A mapping from addresses to balances, a mint function that needs two inputs (an address and a value), and a burn function are a few examples of this. Public variables that store information about your coin are another.
 
 
 
-##Getting Started and Code
+## Getting Started and Code
 
 You can use Remix, an online Solidity IDE, to run this application. Start using the Remix website by going to https://remix.ethereum.org/.
 
@@ -56,7 +56,7 @@ contract MyToken {
     }
 }
 ```
-##Overview
+## Overview
 
 The goal of this project is to give users a practical understanding of many of the subjects taught in the ETH_Beginner Course on Solidity. This software provides real-world examples and implementations to enhance learning and demonstrate how crucial Solidity concepts function.
 
